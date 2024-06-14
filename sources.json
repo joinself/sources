@@ -3,6 +3,7 @@
 		"user_specified": [
 			"document_number",
 			"display_name",
+			"photo",
 			"email_address",
 			"unverified_phone_number",
 			"location"
